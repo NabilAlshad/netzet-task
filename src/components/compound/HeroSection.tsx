@@ -35,7 +35,7 @@ const HeroSection: React.FC = ({}) => {
 
 				<div className='flex flex-col-reverse lg:flex lg:flex-col lg:items-start items-center'>
 					<div className='mt-3 lg:mt-[50px]'>
-						<Button className='w-[316px]  flex justify-center items-center gap-3 shadow-[2px_2px_10px_0px_#00E7F9]  text-[20px] font-bold bg-[#FC004E] p-3 rounded-2xl '>
+						<Button className='w-[350px] lg:w-[313px] flex justify-center items-center gap-3 shadow-[2px_2px_10px_0px_#00E7F9]  text-[20px] font-bold bg-[#FC004E] p-3 rounded-2xl '>
 							Get Started
 							<span>
 								<Arrow />
